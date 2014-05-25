@@ -1,8 +1,3 @@
-
-
-
-
-
 <!DOCTYPE html>
 <html class="   ">
   <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# object: http://ogp.me/ns/object# article: http://ogp.me/ns/article# profile: http://ogp.me/ns/profile#">
@@ -538,10 +533,3 @@
       
   </body>
 </html>
-
-=======
-datasciencecoursera
-===================
-
-New GitHub repository for The Data Scientists Toolbox
->>>>>>> 3c4cb69456ba219a7009d4dc77e7bb6372a22477
